@@ -1,3 +1,5 @@
+KEYWORD=FIXED
+
 run: build
     docker run --rm keyword-realease-action
 build:
